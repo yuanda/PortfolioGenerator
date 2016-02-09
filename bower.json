@@ -1,0 +1,21 @@
+{
+  "name": "PortfolioGenerator",
+  "version": "0.0.0",
+  "homepage": "https://github.com/yuanda/PortfolioGenerator",
+  "authors": [
+    "yuanda <yuandahe1@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
